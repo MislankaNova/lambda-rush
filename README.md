@@ -3,6 +3,7 @@ Shooting game written in Rust, with trace amounts of Haskell and Lisp.
 
 Made during ICHack17.
 
+[Get it here](https://github.com/MislankaNova/lambda-rush/releases/tag/0.1.0).
 # How to play?
 
 + Press <kbd>arrow key</kbd>s to move.
